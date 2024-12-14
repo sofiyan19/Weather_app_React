@@ -3,7 +3,7 @@
 ![](weather.gif)
 
 ### Demo - Deployed over Github Pages 
-https://kaif-devv.github.io/react-weather-app/
+
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
